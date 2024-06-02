@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+I am having around 5 years of experience with different Frontend and Backend Technologies.
+
+I’m currently working on React, JavaScript, TypeScript, Node and MERN Stack.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
